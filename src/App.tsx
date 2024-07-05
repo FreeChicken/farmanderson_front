@@ -8,7 +8,9 @@ function App() {
     <>
     <Navbar/>
     <Home/>
-    <div className='min-h-[59vh]'></div>
+    <div className='min-h-[59vh]'>
+   
+    </div>
     <Footer/>
     </>
 );

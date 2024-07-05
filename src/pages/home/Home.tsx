@@ -1,7 +1,6 @@
 import homeLogo from '../../assets/Farma_branco.svg'
 import './Home.css';
 
-
 function Home() {
     return (
         <>
